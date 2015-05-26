@@ -1,0 +1,14 @@
+Datasheets/**
+Drivers/**
+
+Firmware/Binaries/**
+Firmware/Source/*.obj
+Firmware/Source/build/**
+Firmware/Source/disassembly/**
+Firmware/Source/dist/**
+Firmware/Source/funclist
+Firmware/Source/nbproject/private/**
+Firmware/Source/nbproject/Makefile-genesis.properties
+
+Releases/**
+Research/**
