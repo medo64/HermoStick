@@ -1,4 +1,4 @@
-### Hermo ###
+### HermoStick ###
 
 Board size: 105.8 x 26.0 mm ~ 4.3 sqin
 Panel size: 29.5 x 20.3 mm ~ 1.0 sqin (2x)

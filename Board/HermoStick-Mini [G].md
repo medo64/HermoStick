@@ -1,4 +1,4 @@
-### Hermo ###
+### HermoStick/mini ###
 
 44.0 x 19.5 mm ~ 1.4 sqin
 
